@@ -22,4 +22,5 @@ You can see sample json files and output images inside [`results`](https://githu
 
 > **DELETE** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :arrow_right: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**DELETE**<pre>http://localhost/stocktask/api/delete.php</pre></p>
 
-#### Powered by: PHP and MySQL
+---
+#### Powered by: [`PHP`](https://www.php.net/) | [`MySQL`](https://www.mysql.com/) | [`PhpMyAdmin`](https://www.phpmyadmin.net/) | [`Postman`](https://www.postman.com)
