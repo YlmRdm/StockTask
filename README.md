@@ -12,7 +12,7 @@ StockTask is a REST API with PHP and MySQL for ByNoGame Technical Task.
 You can see sample json files and output images inside [`results`](https://github.com/YlmRdm/StockTask/tree/main/results) folder. These results are from [`Postman`](https://www.postman.com/).
 <p>
 
-> **READ** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :arrow_right: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**GET**   <pre>http://localhost/stocktask/api/read.php</pre>
+> **READ** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :arrow_right: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**GET**   <pre>http://localhost/stocktask/api/read.php</pre>
 
 > **SINGLE READ** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :arrow_right: &nbsp;&nbsp;&nbsp;&nbsp;**GET**<pre>http://localhost/stocktask/api/single_read.php/?product_id=20</pre>
 
