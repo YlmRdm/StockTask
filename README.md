@@ -14,7 +14,7 @@ You can see sample json files and output images inside [`results`](https://githu
 
 > **READ** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :arrow_right: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**GET**   <pre>http://localhost/stocktask/api/read.php</pre>
 
-> **SINGLE READ** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :arrow_right: &nbsp;&nbsp;&nbsp;&nbsp;**GET**<pre>http://localhost/stocktask/api/single_read.php/?product_id=20</pre>
+> **SINGLE READ** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :arrow_right: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**GET**<pre>http://localhost/stocktask/api/single_read.php/?product_id=20</pre>
 
 > **CREATE** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :arrow_right: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**POST**<pre>http://localhost/stocktask/api/create.php</pre></p>
 
