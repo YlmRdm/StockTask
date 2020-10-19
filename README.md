@@ -1,5 +1,5 @@
 # StockTask
-StockTask is a REST API with PHP and MySQL for ByNoGame Technical Task.
+StockTask is a REST API with PHP and MySQL.
 
 ### Used Technologies
 - **Operating System:** macOS Catalina Version 10.15.7 (19H2)
